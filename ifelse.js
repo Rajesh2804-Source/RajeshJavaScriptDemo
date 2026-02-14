@@ -1,7 +1,7 @@
 let a = "Rajesh";
 
 if (a = "Rajesh") {
-    console.log('Correct');
+    console.log('Corrected');
 } else {
     console.log('InCorrect');
 }
